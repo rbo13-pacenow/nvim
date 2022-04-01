@@ -1,0 +1,12 @@
+my neovim config
+
+package manager:
+
+https://github.com/wbthomason/packer.nvim
+
+The neovim version should be: NVIM v0.6.1 with lua compiled
+
+
+Installation:
+
+cp -a nvim ~/.config/nvim
